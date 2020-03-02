@@ -2,4 +2,4 @@
 Jenkins-Hello
 
 Hey world!
-jenkins begigs here
+jenkins begins here
